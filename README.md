@@ -1,6 +1,12 @@
-# ShopSphereX-India Delivery Network & Shopping Management System
+# ShopSphereX
 
-\<p align="center">   \<b>A C++ Data Structures and Algorithms Project\</b>   \<br>   Graph Algorithms | Shortest Path | Minimum Spanning Tree | AVL Trees | Linked Lists \</p>
+### India Delivery Network & Shopping Management System
+
+**Data Structures:** AVL Tree | Linked List | Adjacency Matrix
+
+**Algorithms:** Dijkstra’s Shortest Path | Prim’s Minimum Spanning Tree
+
+**Core Techniques:** AVL Rotations (LL, RR, LR, RL)
 
 ---
 
